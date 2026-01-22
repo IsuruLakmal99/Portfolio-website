@@ -1,5 +1,5 @@
 import { ArrowDown } from 'lucide-react';
-import { Button } from '@/app/components/ui/button';
+import { Button } from './ui/button.tsx';
 
 export function Hero() {
   const scrollToSection = (sectionId: string) => {
@@ -41,7 +41,7 @@ export function Hero() {
             <div className="relative">
               <div className="w-32 h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 rounded-full overflow-hidden border-4 border-white shadow-2xl">
                 <img
-                  src="src\app\components\figma\ChatGPT Image Jan 22, 2026, 11_53_16 AM.png"
+                  src="src/app/components/figma/pro_pic.png"
                   alt="ISURU LAKMAL DISSANAYAKA"
                   className="w-full h-full object-cover"
                 />

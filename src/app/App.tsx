@@ -1,12 +1,12 @@
-import { Header } from '@/app/components/Header';
-import { Hero } from '@/app/components/Hero';
-import { About } from '@/app/components/About';
-import { Skills } from '@/app/components/Skills';
-import { Projects } from '@/app/components/Projects';
-import { Education } from '@/app/components/Education';
-import { Contact } from '@/app/components/Contact';
-import { Footer } from '@/app/components/Footer';
-import { ThemeProvider } from '@/app/components/ThemeProvider';
+import { Header } from './components/Header.tsx';
+import { Hero } from './components/Hero.tsx';
+import { About } from './components/About.tsx';
+import { Skills } from './components/Skills.tsx';
+import { Projects } from './components/Projects.tsx';
+import { Education } from './components/Education.tsx';
+import { Contact } from './components/Contact.tsx';
+import { Footer } from './components/Footer.tsx';
+import { ThemeProvider } from './components/ThemeProvider.tsx';
 
 export default function App() {
   return (
