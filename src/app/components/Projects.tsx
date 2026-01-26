@@ -36,34 +36,43 @@ export function Projects() {
     },
     {
       id: 3,
-      title: 'E-Commerce Platform',
+      title: 'Travel Web Site UI & UX Design',
       description:
-        'An online shopping platform with product catalog, shopping cart, and payment integration. Focused on user experience and secure transactions.',
-      technologies: ['React', 'Firebase', 'Stripe', 'Material-UI'],
+        'Travel booking and find accommadatiopn web application ui & ux design using Adobe XD. Designed user-friendly interfaces and seamless user experiences for travel enthusiasts.',
+      technologies: ['Adobe XD'],
       githubUrl: 'https://github.com/yourusername/ecommerce',
       type: 'academic',
     },
     {
       id: 4,
-      title: 'Task Management App',
+      title: 'Holyday Food delivery App UI & UX Design',
       description:
-        'A productivity tool for organizing tasks, setting deadlines, and tracking progress. Implements drag-and-drop functionality and local storage.',
-      technologies: ['JavaScript', 'React', 'LocalStorage', 'CSS'],
+        'Food delivery application UI & UX design using Adobe XD. Designed user-friendly interfaces and seamless user experiences for food delivery enthusiasts.',
+      technologies: ['Adobe XD'],
       githubUrl: 'https://github.com/yourusername/task-manager',
       liveUrl: 'https://task-manager-demo.com',
       type: 'personal',
     },
     {
       id: 5,
-      title: 'Weather Dashboard',
+      title: 'Dashboard Design for Management web application',
       description:
-        'Real-time weather information dashboard using external APIs. Displays current weather, forecasts, and historical data with interactive charts.',
-      technologies: ['JavaScript', 'API Integration', 'Chart.js'],
+        'web appliation dashboard design using Adobe XD.',
+      technologies: ['Adobe XD'],
       githubUrl: 'https://github.com/yourusername/weather-dashboard',
       type: 'personal',
     },
     {
       id: 6,
+      title: 'Library Management System',
+      description:
+        'Database-driven application for managing library resources, member records, and book lending. Implements CRUD operations and search functionality.',
+      technologies: ['Python', 'MySQL', 'Flask', 'Bootstrap'],
+      githubUrl: 'https://github.com/yourusername/library-system',
+      type: 'academic',
+    },
+    {
+      id: 7,
       title: 'Library Management System',
       description:
         'Database-driven application for managing library resources, member records, and book lending. Implements CRUD operations and search functionality.',
