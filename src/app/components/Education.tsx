@@ -93,21 +93,10 @@ export function Education() {
                 </h3>
               </div>
               <ul className="space-y-3 text-gray-700 dark:text-gray-300">
-                <li className="flex items-start">
-                  <span className="text-purple-600 dark:text-purple-400 mr-2 mt-1">•</span>
-                  <span>Active member of University IT Club</span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-purple-600 dark:text-purple-400 mr-2 mt-1">•</span>
-                  <span>Participated in hackathons and coding competitions</span>
-                </li>
+                
                 <li className="flex items-start">
                   <span className="text-purple-600 dark:text-purple-400 mr-2 mt-1">•</span>
                   <span>Collaborated on group projects and presentations</span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-purple-600 dark:text-purple-400 mr-2 mt-1">•</span>
-                  <span>Dean's List recipient (multiple semesters)</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-purple-600 dark:text-purple-400 mr-2 mt-1">•</span>
