@@ -64,19 +64,19 @@ export function Projects() {
     },
     {
       id: 6,
-      title: 'Library Management System',
+      title: 'Watch Selling Web Site UI & UX Design',
       description:
-        'Database-driven application for managing library resources, member records, and book lending. Implements CRUD operations and search functionality.',
-      technologies: ['Python', 'MySQL', 'Flask', 'Bootstrap'],
+        'UI & UX design for watch selling web site using Adobe XD as academic project.',
+      technologies: ['Adobe XD'],
       githubUrl: 'https://github.com/yourusername/library-system',
       type: 'academic',
     },
     {
       id: 7,
-      title: 'Library Management System',
+      title: 'Coffee shop app UI & UX Design',
       description:
-        'Database-driven application for managing library resources, member records, and book lending. Implements CRUD operations and search functionality.',
-      technologies: ['Python', 'MySQL', 'Flask', 'Bootstrap'],
+        'UI & UX design for coffee shop app using Adobe XD as academic project.',
+      technologies: ['Adobe XD'],
       githubUrl: 'https://github.com/yourusername/library-system',
       type: 'academic',
     },
